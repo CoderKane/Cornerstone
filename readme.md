@@ -12,6 +12,10 @@
   <a href="#license">License</a>
 </p>
 
+## Production link
+This temporary SSH tunnel will provide access to the deployed code.
+https://8031-152-37-142-225.ngrok.io/
+
 ## Key Features
 
 * Uses my own mysqli wrapper (https://github.com/CoderKane/mysqliwrapper)
