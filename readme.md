@@ -14,6 +14,7 @@
 
 ## Key Features
 
+* Uses my own mysqli wrapper (https://github.com/CoderKane/mysqliwrapper)
 * SQL Schema included (db_schema.sql)
 * Schema designed using dbdesigner.io:
 https://dbdiagram.io/d/61e0ad334bca010ae98840cc
@@ -35,6 +36,7 @@ This software uses the following open source packages:
 - [Bootstrap](https://getbootstrap.com/)
 - [Bootstrap-table](https://bootstrap-table.com/)
 - [JQuery](https://jquery.com/)
+- [Mysqli Wrapper](https://github.com/CoderKane/mysqliwrapper)
 
 ## License
 MIT
