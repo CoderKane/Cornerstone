@@ -3,6 +3,8 @@
   Dawgs
 </h1>
 
+![Picture](https://user-images.githubusercontent.com/97305199/189440262-3ac6ca7b-5a34-4e58-8214-fc02533b3c5b.png)
+
 <h4 align="center">A test written for Cornerstone displaying a categorized list of dogs by breed, using a MySQL database</h4>
 
 <p align="center">
